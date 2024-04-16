@@ -1,0 +1,6 @@
+Player Class
+Enemy Class
+Star Class
+Platform Class
+Ground Class
+HUD Class (health and stars collected)
